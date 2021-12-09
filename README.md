@@ -1,19 +1,3 @@
-# Calculadora
-### CALCULADORA
-
-Calculadora simples feita em Ruby
-
-### INSTALAÇÃO
-
-```
-pkg install git
-pkg install ruby
-gem install lolcat
-git clone https://github.com/H4sxp/Calculadora
-cd Calculadora
-ruby Calculadora.rb
-
-```
 ![](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=White">
