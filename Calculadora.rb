@@ -1,4 +1,5 @@
-while true do
+Exit = false
+while Exit == false 
  system ("clear")
  system ("cat h4s | lolcat")
  puts "\n" 
@@ -60,6 +61,7 @@ while true do
   sleep 3
 
  elsif usuario == 6
+  Exit = true 
   system ("clear")
  end
 end
